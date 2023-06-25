@@ -288,7 +288,7 @@ public class LoginPageTest extends TestBase {
     public void logOut() throws InterruptedException {
         Thread.sleep(5000);
         Login.logOut_icon();
-    }*/
+    }
 }
 
 
